@@ -6,6 +6,7 @@
     <groupId>org.spider</groupId>
     <artifactId>spider-root</artifactId>
     <version>1.0-SNAPSHOT</version>
+	<relativePath>../..</relativePath>
   </parent>
   <groupId>org.spider</groupId>
   <artifactId>spider-ui</artifactId>

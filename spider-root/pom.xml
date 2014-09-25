@@ -23,6 +23,6 @@
     </dependency>
   </dependencies>
   <modules>
-    <module>spider-ui</module>
+    <module>modules/spider-ui</module>
   </modules>
 </project>
